@@ -1,4 +1,4 @@
-# Cartesian-Product
+# Cartesian Product
 The algorithm is consistent with the “Cartesian Product”.
 
 Cartesian comes from the name of the French mathematician and philosopher René Descartes, who played a significant role in developing the Cartesian coordinate system that uses the x and y axes to determine positions in a plane.
